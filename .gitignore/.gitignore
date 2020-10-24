@@ -58,3 +58,34 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Bolt
+
+Ludiq*
+bin/
+obj/
+Temp/
+Obj/
+Library/
+AssetStoreTools*
+.vs/
+.vscode/
+*.suo
+*.sln
+*.csproj
+
+Assets/Ludiq/Assemblies/
+Assets/Ludiq/Bolt/
+Assets/Ludiq/Bolt.Core/Generated/*.meta
+Assets/Ludiq/Bolt.Core/Generated/Variables/*.meta
+Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/*.meta
+Assets/Ludiq/Ludiq.Core/DotNetDocumentation/
+Assets/Ludiq/Bolt.Flow/Generated/
+Assets/Ludiq/Bolt.State/Generated/
+Assets/Ludiq/Ludiq.Core/Generated/
+Assets/Ludiq/Ludiq.Graphs/Generated/
+Assets/Ludiq/*/IconMap/
+Assets/Ludiq/*/*.root
+Assets/Ludiq/*/*.meta
+Assets/Ludiq/*.meta
+Assets/*.meta
+Backups/
